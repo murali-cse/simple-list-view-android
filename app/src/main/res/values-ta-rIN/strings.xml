@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="dog">நாய்</string>
+    <string name="cat">பூனை</string>
+    <string name="fish">மீன்</string>
+    <string name="cow">மாடு</string>
+    <string name="pig">பன்றி</string>
+</resources>

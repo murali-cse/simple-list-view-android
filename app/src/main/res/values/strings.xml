@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="fish">Fish</string>
+    <string name="cow">Cow</string>
+    <string name="pig">Pig</string>
+    <string-array name="animalArray">
+        <item>@string/dog</item>
+        <item>@string/cat</item>
+        <item>@string/fish</item>
+        <item>@string/cow</item>
+        <item>@string/pig</item>
+    </string-array>
+</resources>
